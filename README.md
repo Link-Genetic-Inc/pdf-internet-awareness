@@ -39,3 +39,10 @@ Documents here may be used as discussion input for PDF Technical Working Group (
 
 - `proposal/`  
   Discussion drafts outlining the problem space and open questions related to internet-aware PDF content representation.
+
+## Related Discussion
+
+The problem space described in this repository is discussed publicly in the PDF Association issue tracker:
+
+- PDF Association Issue #725 – *Lack of Internet-Aware Content Representation in PDF*  
+  https://github.com/pdf-association/pdf-issues/issues/725
