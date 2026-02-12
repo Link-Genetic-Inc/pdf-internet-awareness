@@ -1,2 +1,41 @@
-# pdf-internet-awareness
-Discussion drafts and technical exploration on internet-aware content representation in PDF documents.
+# PDF Internet Awareness
+
+This repository contains discussion drafts and technical exploration related to **internet-aware content representation in PDF documents**.
+
+## Purpose
+
+PDF documents are widely distributed and consumed in internet-centric contexts. They frequently contain internet-related information such as domain names, URLs, email addresses, and other network identifiers.
+
+The purpose of this repository is to provide a neutral, technical discussion space to explore whether and how such internet-related entities could be represented in PDF content in a more explicit, machine-readable way.
+
+## Scope
+
+This repository focuses on:
+- content representation, not viewer behavior
+- structural expressiveness of PDF content
+- interoperability, extraction, and automation use cases
+- archival, compliance, and long-lived document scenarios
+
+This repository explicitly does **not**:
+- define a new PDF standard
+- propose immediate changes to ISO 32000-2
+- mandate interaction behavior (e.g. clickable links)
+- replace or deprecate annotations
+- introduce browser-like functionality
+
+## Status
+
+All documents in this repository are **non-normative discussion drafts** intended to support technical exploration and working group discussion.
+
+See [STATUS.md](STATUS.md) for details.
+
+## Relationship to PDF Association
+
+This repository is **not** an official PDF Association or ISO publication.
+
+Documents here may be used as discussion input for PDF Technical Working Group (TWG) conversations, application notes, or exploratory work, subject to the processes of the PDF Association.
+
+## Contents
+
+- `proposal/`  
+  Discussion drafts outlining the problem space and open questions related to internet-aware PDF content representation.
